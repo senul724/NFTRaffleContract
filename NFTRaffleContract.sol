@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@chainlink/contracts/src/v0.8/VRFConsumerBase.sol";
 
 // *******************************************************************************************
-//  Use this smart contract to assing random winners safely while minting
+//  Use this smart contract to assign random winners safely while minting
 
 //        this contact can safely assign random winner using the chainlink VRF
 //        refer the https://docs.chain.link for more information
